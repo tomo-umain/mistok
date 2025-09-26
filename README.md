@@ -10,8 +10,11 @@ a react debugger to inspect live JSON in your components
 - formats minified JSON to be readable
 - auto-updates when the objects change
 - supports objects, arrays, strings
+- efforts have been made to use as few imports as possible to make this component work in any project
 
 ### usage
+- simply import the Mistok component to the page you're on, and add objects you want to inspect to the `objects` prop.
+
 ```javascript
 <Mistok
   objects={{
