@@ -30,3 +30,6 @@ a react debugger to inspect live JSON in your components
   }}
 />
 ```
+
+### etymology
+what does Mistok even mean?? well, it comes from the Icelandic word "Mistök", meaning "mistake" or "error" - which is what this tools is trying to help fix! now you know :D
