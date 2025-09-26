@@ -1,6 +1,9 @@
 # mistok
 a react debugger to inspect live JSON in your components
 
+## screenshot
+<img width="635" height="619" alt="image" src="https://github.com/user-attachments/assets/42aa4b2e-179b-4323-8c69-e4d3f2f21896" />
+
 ## features
 - dragging/resizing Mistok around on the page
 - multiple tabs
@@ -27,6 +30,3 @@ a react debugger to inspect live JSON in your components
   }}
 />
 ```
-
-## screenshot
-<img width="635" height="619" alt="image" src="https://github.com/user-attachments/assets/42aa4b2e-179b-4323-8c69-e4d3f2f21896" />
